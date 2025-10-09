@@ -1,0 +1,2 @@
+# AluraONEORACLE
+Proyecto ejercicios Python 
